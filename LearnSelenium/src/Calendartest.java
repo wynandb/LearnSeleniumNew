@@ -10,7 +10,7 @@ public class Calendartest {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		
-		// Variables to use on calendar
+		// Variables to use on calendar//
 		
 		String month = "6";
 		String date = "15";

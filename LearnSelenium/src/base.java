@@ -18,7 +18,7 @@ public class base {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-
+		//
 		WebDriver driver = new ChromeDriver();
 		// Implicit wait , will wait for the specified time, will continue if element is found earlier , will not wait longer then specified
 		//driver.manage().timeouts().implicitlyWait(6, TimeUnit.SECONDS);

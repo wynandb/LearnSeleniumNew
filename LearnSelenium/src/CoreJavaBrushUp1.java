@@ -4,7 +4,7 @@ public class CoreJavaBrushUp1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		//Data Types in Java
+		//Data Types in Java//
 		
 		int myNum = 5;
 		String website = "Evetech";

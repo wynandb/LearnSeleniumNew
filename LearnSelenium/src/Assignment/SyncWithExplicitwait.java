@@ -13,7 +13,7 @@ import org.openqa.selenium.WebElement;
 public class SyncWithExplicitwait {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		
 		
 		WebDriver driver = new ChromeDriver();

@@ -10,7 +10,7 @@ import org.openqa.selenium.WebDriver;
 public class windowHandlerAssignment {
 
 	public static void main(String[] args) throws InterruptedException {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://the-internet.herokuapp.com/");

@@ -17,7 +17,7 @@ public class windowHandler {
 	public static void main(String[] args) throws InterruptedException {
 		
 		// Go to website and switch to child window
-		
+		//
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/loginpagePractise/");
 		driver.manage().window().maximize();

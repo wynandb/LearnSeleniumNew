@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 public class DriveDataDynamically {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		
 //		checkbox example
 //		1. select any checkbox  

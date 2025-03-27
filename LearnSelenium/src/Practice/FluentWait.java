@@ -12,7 +12,7 @@ import org.openqa.selenium.By;
 public class FluentWait {
 
 	//public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		
 		//System.setProperty("webdriver.chrome.driver", "/Users/Wynand Bouwer/Documents/chromedriver-win64/chromedriver.exe");
 		//WebDriver driver = new ChromeDriver();

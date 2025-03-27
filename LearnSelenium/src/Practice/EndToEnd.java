@@ -8,7 +8,7 @@ import org.testng.Assert;
 public class EndToEnd {
 
 	public static void main(String[] args) throws InterruptedException {
-
+//
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/dropdownsPractise/");
 		// Mazimize current window

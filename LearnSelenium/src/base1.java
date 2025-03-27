@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class base1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub//
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
 		List<WebElement> products = driver.findElements(By.cssSelector("h4.product-name"));

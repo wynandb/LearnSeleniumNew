@@ -8,7 +8,7 @@ public class actionsDemo {
 
 	public static void main(String[] args) throws InterruptedException {
 		
-		
+		//
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.amazon.com/");
 		driver.manage().window().maximize();
